@@ -1,0 +1,7 @@
+README.md
+mod3.py
+setup.py
+mod3.egg-info/PKG-INFO
+mod3.egg-info/SOURCES.txt
+mod3.egg-info/dependency_links.txt
+mod3.egg-info/top_level.txt

@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: mod3
+Version: 1.0.0
+Summary: Test class for study
+Home-page: sfjasfj
+Author: ziejaCode
+Author-email: ziejaCode@gaga.con
+License: UNKNOWN
+Description: # Example Package
+        
+        This is a simple example package. You can use
+        [Github-flavored Markdown](https://guides.github.con/features/mastering-markdown/)
+        to write your content.
+Platform: UNKNOWN
